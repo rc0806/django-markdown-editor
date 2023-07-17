@@ -3,3 +3,5 @@ Markdown==3.3.4
 requests
 bleach
 tzdata
+martor
+gunicorn
